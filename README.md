@@ -1461,6 +1461,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) - Desktop app for macOS (Swift) and Windows (.NET) that shows every MCP server across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, runs health checks and a tool-description safety scan, and backs up configs before writing. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/heyitsjakub/KyttoMCP?style=social)
 - [Archcore](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/archcore-ai/archcore?style=social)
 - [Caprock](https://github.com/dspv/caprock) - Desktop app and local dashboard for Claude Code, Codex and OpenCode sessions: agents in tabs and split panes, token cost per repository at API list prices, plan-limit windows, loop alerts and searchable history. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/dspv/caprock?style=social)
+- [LynxPrompt](https://github.com/GeiserX/LynxPrompt) - Self-hosted web app and `lynxp` CLI that turn one set of AI coding rules into the rule files of 30 tools, among them AGENTS.md, CLAUDE.md and Cursor rules, with blueprints a team can share. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/GeiserX/LynxPrompt?style=social)
 
 #### SDKs & API Development Tools
 
